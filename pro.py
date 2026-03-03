@@ -1,4 +1,4 @@
-$$$$print("abhi")
+$$$$printf(abhi)
 
 a=35
 b=2
